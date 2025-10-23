@@ -1,5 +1,5 @@
-HireVision
-(Best Product Award at the hackathon) Visit us at galactichire.com
+GalacticHire (galactichire.com)
+(Best Product Award at the hackathon) Visit us at 
 
 Welcome to our GitHub page! 
 HireVision is the first transparent video screening interview platform. .
@@ -8,4 +8,5 @@ By sharing the SAME feedback with candidates as well as recruiters, we benefit n
 
 Here's a link to our pitchdeck that won us best product (demo included)!
 https://www.canva.com/design/DAGWBja42Uw/OB7lXjmUI9obDXJgJ2LSxg/edit?utm_content=DAGWBja42Uw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
