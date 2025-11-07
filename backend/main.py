@@ -23,6 +23,7 @@ from email.mime.multipart import MIMEMultipart
 import pdfplumber  # Add this import for PDF text extraction
 import requests as httpx
 
+#a test comment to see if this reaches my repo
 # Load environment variables
 load_dotenv()
 ASSEMBLYAI_API_KEY = os.getenv("ASSEMBLY")
